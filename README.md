@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 Supervised Machine Learning and Credit Risk 
 ## Overview
-The purpose of this project was to develop a supervised machine learning model that could effectively predict credit risk. Inorder to do this the following procedure was used:
+The purpose of this project was to develop a supervised machine learning models that could effectively predict credit risk. In order to do this the following procedure was used:
 * Naive Random Oversampling using RandomOversampler
 * SMOTE Oversampling
 * Undersampling using Cluster Centroid 
